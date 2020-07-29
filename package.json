@@ -1,7 +1,6 @@
 {
   "name": "test1.0",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -32,5 +31,14 @@
     "webpack": "^4.44.0",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydeep1116/test1.0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaydeep1116/test1.0/issues"
+  },
+  "homepage": "https://github.com/jaydeep1116/test1.0#readme",
+  "description": ""
 }

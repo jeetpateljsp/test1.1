@@ -2,10 +2,15 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import './main.css'
 
+import Home from './component/Home'
+
 class App extends React.Component{
+
     render() {
         return(
-            <h1>Hello World!!</h1>
+            <React.Fragment>
+                    <Home/>
+            </React.Fragment>
         )
     }
 }
